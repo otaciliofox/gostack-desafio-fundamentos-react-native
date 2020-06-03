@@ -49,7 +49,7 @@ This app features all the latest tools and practices in mobile development!
 
 Step 1 - Access our application's mobile folder, download the npm packages used in the project with the command: `npm install` , if you prefer yarn execute `yarn`;
 
-Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
+Step 2 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 <br />
 <br />
