@@ -20,10 +20,8 @@
   </a>
 </p>
 
-<div>
-     <img src="./github/GoMarketplace–1.png" alt="project image presetation" width="550">
-        <img src="./github/GoMarketplace–2.png" alt="mobile app list items" width="330">
-         <img src="./github/GoMarketplace–3.png" alt="mobile app cart details" width="330">
+<div align="center">
+     <img src="./github/GoMarketplace–1.png" alt="project image presetation" width="880">
 </div>
 
 <br />
