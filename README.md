@@ -1,5 +1,5 @@
 <h1 align="center">
-      <img src="./github/logo.png" alt="GoMarketplace" width="400">
+      <img src="./github/logo.png" alt="GoMarketplace" width="250">
 </h1>
 
 <h3 align="center">
